@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "YoukeySDK",
-            url: "https://dl.cloudsmith.io/basic/youkey/youkey-sdk/raw/versions/2.0.0/YoukeySDK.xcframework.zip",
-            checksum: "cde2ab611a4e1d793292bd59f840bc6d6626c6903e5f342ddd75386ec17804dc"
+            url: "https://dl.cloudsmith.io/basic/youkey/youkey-sdk/raw/versions/2.1.0/YoukeySDK.xcframework.zip",
+            checksum: "bf75f8e4818389f4c523c62ca1dad38b8325510e40da5cd2cd0fc75058d009d9"
         ),
     ]
 )
